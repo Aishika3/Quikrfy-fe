@@ -1,0 +1,9 @@
+.home {
+}
+.opener {
+  min-height: 100vh;
+  background: linear-gradient(45deg, #ba91ff 0%, rgba(255,255,255,0) 39%);
+}
+.hear_text_button_link{
+  text-decoration: none;
+}
